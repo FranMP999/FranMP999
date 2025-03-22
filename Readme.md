@@ -16,7 +16,7 @@
 
 - 🌱 El lenguaje en el que tengo más experiencia es ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue), pero mi corazón le pertenece a ![Python](https://img.shields.io/badge/C-grey).
 
-- 💬 Afincionado a aprender guitarra, meprendiendo un nuevo hobby en la pasión recientemente descubierta por el <a href="https://es.wikipedia.org/wiki/Go" target="blank"> Go/Baduk/Weiqi</a>.
+- 💬 Afincionado a aprender guitarra, emprendiendo un nuevo hobby en la pasión recientemente descubierta por el <a href="https://es.wikipedia.org/wiki/Go" target="blank"> Go/Baduk/Weiqi</a>.
 
 <br>
 <br>
