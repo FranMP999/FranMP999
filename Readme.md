@@ -9,17 +9,14 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 Estoy trabajando activamente para titularme de la carrera y del MDS.
 
-- 🤝 I’m available for freelancing.
+- 🤝 Buscando empleo part-time.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 El lenguaje en el que tengo más experiencia es ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue), pero mi corazón le pertenece a ![Python](https://img.shields.io/badge/C-grey).
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Afincionado a aprender guitarra, meprendiendo un nuevo hobby en la pasión recientemente descubierta por el <a href="https://es.wikipedia.org/wiki/Go" target="blank"> Go/Baduk/Weiqi</a>.
 
 <br>
 <br>
